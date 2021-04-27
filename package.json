@@ -1,0 +1,28 @@
+{
+  "name": "dnsify",
+  "version": "1.0.0",
+  "description": "DNS lookup and Forensics built for use in Jaras",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doalef/dnsify.git"
+  },
+  "keywords": [
+    "dns",
+    "nodejs",
+    "jaras"
+  ],
+  "author": "Amirali Ahmadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doalef/dnsify/issues"
+  },
+  "homepage": "https://github.com/doalef/dnsify#readme",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "tape": "~5.2.2"
+  }
+}
